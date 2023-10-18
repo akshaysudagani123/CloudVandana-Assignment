@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color:#0074B7;
+    padding:50px 50px;
+    
+}
+.form-container {
+    width: 500px;
+    height:550px;
+    margin: 0 auto;
+    background-color:white;
+    padding:20px 20px;
+    
+}
+
+  .field {
+    padding :10px 10px;
+ 
+  }
+  
+ button {
+  width : 100px;
+  height:40px;
+  background-color:#0074B7 ;
+  color:white;
+
+}
+
+ input[type="text"],
+ input[type="date"],
+ select,
+ input[type="email"],
+ input[type="tel"] {
+    width: 40%;
+    padding: 5px;
+}
+    
+}
